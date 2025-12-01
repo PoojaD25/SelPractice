@@ -31,4 +31,5 @@ public class CheckoutPage extends Reusable {
 		highlightElement(element);
 		return element;
 	}
+	
 }
